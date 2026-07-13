@@ -8,6 +8,7 @@ Mostly a place to solve problems and learn new languages
 - AoC 2025: [Uiua](https://www.uiua.org/), OCaml
 
 - [Project Euler](https://github.com/ericlovesmath/ProjectEulerPractice): APL, Clojure, OCaml, Python
+- Leetcode: Uiua, Haskell
 
 - Codeforces: C++
 - Google Kickstart: C++
